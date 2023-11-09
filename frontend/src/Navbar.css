@@ -1,0 +1,25 @@
+#navContainer{
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  #title {
+    font-size: 25px;
+    font-weight:bold;
+    display: inline-block;
+  }
+  
+  #navBar {
+    display: inline-block;
+    list-style: none;
+    width: 900px;
+    font-size: 12px;;
+    font-weight:bold;
+    text-align: end;
+  }
+  
+  #navBar li {
+    display: inline-block;
+    margin-right: 50px;
+  
+  }
